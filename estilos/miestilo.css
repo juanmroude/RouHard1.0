@@ -1,0 +1,24 @@
+.section-form{
+    text-align: center;
+}
+
+p.precio{
+    color: white;
+    background-color: darkslategray;
+    font-size: 150%;
+    padding: 0.5em;
+}
+
+h1{
+    color:darkslategray;
+    padding: 1em;
+    text-align: center;
+
+}
+
+footer {
+    width: 100%;    
+    margin: 0 auto;
+    text-align: center;
+    align-self: flex-end;
+}
