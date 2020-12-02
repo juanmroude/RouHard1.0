@@ -5,7 +5,7 @@
 p.precio{
     color: white;
     background-color: darkslategray;
-    font-size: 150%;
+    font-size: 2em;
     padding: 0.5em;
 }
 
@@ -22,3 +22,12 @@ footer {
     text-align: center;
     align-self: flex-end;
 }
+
+.carousel-inner img {
+    max-width: 500px;
+  }
+
+.carro{
+    background-color: black;
+}  
+
